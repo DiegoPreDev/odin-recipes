@@ -1,0 +1,23 @@
+body{
+
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+li{
+
+    padding: 5px;
+}
+
+ul, ol{
+
+    display: inline;
+    list-style-type: none;
+}
+
+.description, .ingredients, .steps{
+
+    background-color: beige;
+    padding: 10px;
+    margin: 12px 300px;
+}
